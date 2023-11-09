@@ -52,4 +52,4 @@ def loop(n_times: int, MY_USERNAME: str, MY_PASSWD: str):
 
     print("Times:", _)
 
-loop(<n_times>, '<your-username>', '<your-password>')
+loop(<n_times:int>, '<your-username:str>', '<your-password:str>')
